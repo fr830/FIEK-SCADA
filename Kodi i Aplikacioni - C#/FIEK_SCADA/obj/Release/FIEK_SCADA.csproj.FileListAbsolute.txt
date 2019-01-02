@@ -1,0 +1,13 @@
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\bin\Release\FIEK_SCADA.exe.config
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\obj\Release\Interop.CMeterControl.dll
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\obj\Release\AxInterop.CMeterControl.dll
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\obj\Release\FIEK_SCADA.csproj.ResolveComReference.cache
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\obj\Release\FIEK_SCADA.csprojResolveAssemblyReference.cache
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\obj\Release\FIEK_SCADA.Form1.resources
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\obj\Release\FIEK_SCADA.Inqizo.resources
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\obj\Release\FIEK_SCADA.Konfigurimi.resources
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\obj\Release\FIEK_SCADA.KonfirmoImazh.resources
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\obj\Release\FIEK_SCADA.NiveliControl.resources
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\obj\Release\FIEK_SCADA.Properties.Resources.resources
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\obj\Release\FIEK_SCADA.SplashScreen.resources
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\obj\Release\FIEK_SCADA.csproj.GenerateResource.Cache

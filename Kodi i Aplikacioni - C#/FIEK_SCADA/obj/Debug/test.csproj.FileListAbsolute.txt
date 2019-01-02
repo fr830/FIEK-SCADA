@@ -1,0 +1,12 @@
+c:\users\ok\documents\visual studio 2013\Projects\test\test\bin\Debug\test.exe.config
+c:\users\ok\documents\visual studio 2013\Projects\test\test\bin\Debug\test.exe
+c:\users\ok\documents\visual studio 2013\Projects\test\test\bin\Debug\test.pdb
+c:\users\ok\documents\visual studio 2013\Projects\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+c:\users\ok\documents\visual studio 2013\Projects\test\test\obj\Debug\test.Form1.resources
+c:\users\ok\documents\visual studio 2013\Projects\test\test\obj\Debug\test.Properties.Resources.resources
+c:\users\ok\documents\visual studio 2013\Projects\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+c:\users\ok\documents\visual studio 2013\Projects\test\test\obj\Debug\test.exe
+c:\users\ok\documents\visual studio 2013\Projects\test\test\obj\Debug\test.pdb
+C:\Users\OK\Documents\visual studio 2013\Projects\FIEK_SCADA\test\bin\Debug\test.exe.config
+C:\Users\OK\Documents\visual studio 2013\Projects\FIEK_SCADA\test\obj\Debug\test.exe
+C:\Users\OK\Documents\visual studio 2013\Projects\FIEK_SCADA\test\obj\Debug\test.pdb

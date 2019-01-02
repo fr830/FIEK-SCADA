@@ -1,0 +1,186 @@
+C:\Users\OK\Documents\visual studio 2013\Projects\FIEK_SCADA\test\bin\Debug\FIEK_SCADA.exe.config
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\bin\Debug\FIEK_SCADA.exe.config
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\bin\Debug\FIEK_SCADA.exe
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\bin\Debug\FIEK_SCADA.pdb
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.csprojResolveAssemblyReference.cache
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Form1.resources
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Properties.Resources.resources
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.csproj.GenerateResource.Cache
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.exe
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.pdb
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\obj\Debug\Interop.CMeterControl.dll
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.csproj.ResolveComReference.cache
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\bin\Debug\AGauge.dll
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\bin\Debug\AquaGauge.dll
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\bin\Debug\Modbus.dll
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\bin\Debug\System.Data.SQLite.dll
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\bin\Debug\log4net.dll
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\bin\Debug\Unme.Common.dll
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\bin\Debug\System.Data.SQLite.xml
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\bin\Debug\Interop.CMeterControl.dll
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\bin\Debug\AxInterop.CMeterControl.dll
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\obj\Debug\AxInterop.CMeterControl.dll
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.NiveliControl.resources
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Konfigurimi.resources
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.KonfirmoImazh.resources
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Inqizo.resources
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\bin\Debug\colorprogressbar.dll
+C:\Users\OK\Documents\Visual Studio 2013\Projects\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.SplashScreen.resources
+C:\Users\OK\Desktop\TestAbout\FIEK_SCADA\FIEK_SCADA\bin\Debug\FIEK_SCADA.exe.config
+C:\Users\OK\Desktop\TestAbout\FIEK_SCADA\FIEK_SCADA\obj\Debug\Interop.CMeterControl.dll
+C:\Users\OK\Desktop\TestAbout\FIEK_SCADA\FIEK_SCADA\obj\Debug\AxInterop.CMeterControl.dll
+C:\Users\OK\Desktop\TestAbout\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.csproj.ResolveComReference.cache
+C:\Users\OK\Desktop\TestAbout\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.exe
+C:\Users\OK\Desktop\TestAbout\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.pdb
+C:\Users\OK\Desktop\TestAbout\FIEK_SCADA\FIEK_SCADA\bin\Debug\FIEK_SCADA.exe
+C:\Users\OK\Desktop\TestAbout\FIEK_SCADA\FIEK_SCADA\bin\Debug\FIEK_SCADA.pdb
+C:\Users\OK\Desktop\TestAbout\FIEK_SCADA\FIEK_SCADA\bin\Debug\Modbus.dll
+C:\Users\OK\Desktop\TestAbout\FIEK_SCADA\FIEK_SCADA\bin\Debug\System.Data.SQLite.dll
+C:\Users\OK\Desktop\TestAbout\FIEK_SCADA\FIEK_SCADA\bin\Debug\log4net.dll
+C:\Users\OK\Desktop\TestAbout\FIEK_SCADA\FIEK_SCADA\bin\Debug\Unme.Common.dll
+C:\Users\OK\Desktop\TestAbout\FIEK_SCADA\FIEK_SCADA\bin\Debug\System.Data.SQLite.xml
+C:\Users\OK\Desktop\TestAbout\FIEK_SCADA\FIEK_SCADA\bin\Debug\Interop.CMeterControl.dll
+C:\Users\OK\Desktop\TestAbout\FIEK_SCADA\FIEK_SCADA\bin\Debug\AxInterop.CMeterControl.dll
+C:\Users\OK\Desktop\TestAbout\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.csprojResolveAssemblyReference.cache
+C:\Users\OK\Desktop\TestAbout\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Form1.resources
+C:\Users\OK\Desktop\TestAbout\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Inqizo.resources
+C:\Users\OK\Desktop\TestAbout\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Konfigurimi.resources
+C:\Users\OK\Desktop\TestAbout\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.KonfirmoImazh.resources
+C:\Users\OK\Desktop\TestAbout\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.NiveliControl.resources
+C:\Users\OK\Desktop\TestAbout\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Properties.Resources.resources
+C:\Users\OK\Desktop\TestAbout\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.SplashScreen.resources
+C:\Users\OK\Desktop\TestAbout\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.csproj.GenerateResource.Cache
+C:\Users\OK\Desktop\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\bin\Debug\FIEK_SCADA.exe.config
+C:\Users\OK\Desktop\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\Interop.CMeterControl.dll
+C:\Users\OK\Desktop\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\AxInterop.CMeterControl.dll
+C:\Users\OK\Desktop\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.csproj.ResolveComReference.cache
+C:\Users\OK\Desktop\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.exe
+C:\Users\OK\Desktop\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.pdb
+C:\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\bin\Debug\FIEK_SCADA.exe.config
+C:\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\Interop.CMeterControl.dll
+C:\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\AxInterop.CMeterControl.dll
+C:\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.csproj.ResolveComReference.cache
+C:\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.exe
+C:\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.pdb
+C:\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\bin\Debug\FIEK_SCADA.exe
+C:\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\bin\Debug\FIEK_SCADA.pdb
+C:\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\bin\Debug\Modbus.dll
+C:\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\bin\Debug\System.Data.SQLite.dll
+C:\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\bin\Debug\log4net.dll
+C:\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\bin\Debug\Unme.Common.dll
+C:\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\bin\Debug\System.Data.SQLite.xml
+C:\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\bin\Debug\Interop.CMeterControl.dll
+C:\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\bin\Debug\AxInterop.CMeterControl.dll
+C:\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.csprojResolveAssemblyReference.cache
+C:\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Form1.resources
+C:\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Inqizo.resources
+C:\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Konfigurimi.resources
+C:\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.KonfirmoImazh.resources
+C:\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.NiveliControl.resources
+C:\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Properties.Resources.resources
+C:\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.SplashScreen.resources
+C:\FIEK_SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.csproj.GenerateResource.Cache
+C:\FIEK SCADA\FIEK_SCADA\FIEK_SCADA\bin\Debug\FIEK_SCADA.exe.config
+C:\FIEK SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\Interop.CMeterControl.dll
+C:\FIEK SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\AxInterop.CMeterControl.dll
+C:\FIEK SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.csproj.ResolveComReference.cache
+C:\FIEK SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.exe
+C:\FIEK SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.pdb
+C:\FIEK SCADA\FIEK_SCADA\FIEK_SCADA\bin\Debug\FIEK_SCADA.exe
+C:\FIEK SCADA\FIEK_SCADA\FIEK_SCADA\bin\Debug\FIEK_SCADA.pdb
+C:\FIEK SCADA\FIEK_SCADA\FIEK_SCADA\bin\Debug\Modbus.dll
+C:\FIEK SCADA\FIEK_SCADA\FIEK_SCADA\bin\Debug\System.Data.SQLite.dll
+C:\FIEK SCADA\FIEK_SCADA\FIEK_SCADA\bin\Debug\log4net.dll
+C:\FIEK SCADA\FIEK_SCADA\FIEK_SCADA\bin\Debug\Unme.Common.dll
+C:\FIEK SCADA\FIEK_SCADA\FIEK_SCADA\bin\Debug\System.Data.SQLite.xml
+C:\FIEK SCADA\FIEK_SCADA\FIEK_SCADA\bin\Debug\Interop.CMeterControl.dll
+C:\FIEK SCADA\FIEK_SCADA\FIEK_SCADA\bin\Debug\AxInterop.CMeterControl.dll
+C:\FIEK SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.csprojResolveAssemblyReference.cache
+C:\FIEK SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Form1.resources
+C:\FIEK SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Inqizo.resources
+C:\FIEK SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Konfigurimi.resources
+C:\FIEK SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.KonfirmoImazh.resources
+C:\FIEK SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.NiveliControl.resources
+C:\FIEK SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Properties.Resources.resources
+C:\FIEK SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.SplashScreen.resources
+C:\FIEK SCADA\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.csproj.GenerateResource.Cache
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\bin\Debug\FIEK_SCADA.exe.config
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\Interop.CMeterControl.dll
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\AxInterop.CMeterControl.dll
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.csproj.ResolveComReference.cache
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.exe
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.pdb
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.csprojResolveAssemblyReference.cache
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Form1.resources
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Inqizo.resources
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Konfigurimi.resources
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.KonfirmoImazh.resources
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.NiveliControl.resources
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Properties.Resources.resources
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.SplashScreen.resources
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.csproj.GenerateResource.Cache
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\bin\Debug\FIEK_SCADA.exe
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\bin\Debug\FIEK_SCADA.pdb
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\bin\Debug\colorprogressbar.dll
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\bin\Debug\Modbus.dll
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\bin\Debug\System.Data.SQLite.dll
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\bin\Debug\log4net.dll
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\bin\Debug\Unme.Common.dll
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\bin\Debug\System.Data.SQLite.xml
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\bin\Debug\Interop.CMeterControl.dll
+C:\Users\OK\Desktop\FIEK SCADA\FIEK SCADA-IDE\FIEK_SCADA\FIEK_SCADA\bin\Debug\AxInterop.CMeterControl.dll
+D:\FIEK SCADA - IDE\FIEK SCADA - IDE Files\FIEK_SCADA\FIEK_SCADA\bin\Debug\FIEK_SCADA.exe.config
+D:\FIEK SCADA - IDE\FIEK SCADA - IDE Files\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.csproj.ResolveComReference.cache
+D:\FIEK SCADA - IDE\FIEK SCADA - IDE Files\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.exe
+D:\FIEK SCADA - IDE\FIEK SCADA - IDE Files\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.pdb
+D:\FIEK SCADA - IDE\FIEK SCADA - IDE Files\FIEK_SCADA\FIEK_SCADA\bin\Debug\FIEK_SCADA.exe
+D:\FIEK SCADA - IDE\FIEK SCADA - IDE Files\FIEK_SCADA\FIEK_SCADA\bin\Debug\FIEK_SCADA.pdb
+D:\FIEK SCADA - IDE\FIEK SCADA - IDE Files\FIEK_SCADA\FIEK_SCADA\bin\Debug\Modbus.dll
+D:\FIEK SCADA - IDE\FIEK SCADA - IDE Files\FIEK_SCADA\FIEK_SCADA\bin\Debug\System.Data.SQLite.dll
+D:\FIEK SCADA - IDE\FIEK SCADA - IDE Files\FIEK_SCADA\FIEK_SCADA\bin\Debug\log4net.dll
+D:\FIEK SCADA - IDE\FIEK SCADA - IDE Files\FIEK_SCADA\FIEK_SCADA\bin\Debug\Unme.Common.dll
+D:\FIEK SCADA - IDE\FIEK SCADA - IDE Files\FIEK_SCADA\FIEK_SCADA\bin\Debug\System.Data.SQLite.xml
+D:\FIEK SCADA - IDE\FIEK SCADA - IDE Files\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.csprojResolveAssemblyReference.cache
+D:\FIEK SCADA - IDE\FIEK SCADA - IDE Files\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Form1.resources
+D:\FIEK SCADA - IDE\FIEK SCADA - IDE Files\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Inqizo.resources
+D:\FIEK SCADA - IDE\FIEK SCADA - IDE Files\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Konfigurimi.resources
+D:\FIEK SCADA - IDE\FIEK SCADA - IDE Files\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.KonfirmoImazh.resources
+D:\FIEK SCADA - IDE\FIEK SCADA - IDE Files\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.NiveliControl.resources
+D:\FIEK SCADA - IDE\FIEK SCADA - IDE Files\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Properties.Resources.resources
+D:\FIEK SCADA - IDE\FIEK SCADA - IDE Files\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.SplashScreen.resources
+D:\FIEK SCADA - IDE\FIEK SCADA - IDE Files\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.csproj.GenerateResource.Cache
+C:\Users\OK\Desktop\share\FIEK SCADA - IDE\FIEK SCADA - IDE Files\FIEK_SCADA\FIEK_SCADA\bin\Debug\FIEK_SCADA.exe.config
+C:\Users\OK\Desktop\share\FIEK SCADA - IDE\FIEK SCADA - IDE Files\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.csproj.ResolveComReference.cache
+C:\Users\OK\Desktop\share\FIEK SCADA - IDE\FIEK SCADA - IDE Files\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.exe
+C:\Users\OK\Desktop\share\FIEK SCADA - IDE\FIEK SCADA - IDE Files\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.pdb
+C:\Users\LEDI\Desktop\FIEK SCADA\FIEK SCADA - IDE\FIEK_SCADA\FIEK_SCADA\bin\Debug\FIEK_SCADA.exe.config
+C:\Users\LEDI\Desktop\FIEK SCADA\FIEK SCADA - IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.csproj.ResolveComReference.cache
+C:\Users\LEDI\Desktop\FIEK SCADA\FIEK SCADA - IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.exe
+C:\Users\LEDI\Desktop\FIEK SCADA\FIEK SCADA - IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.pdb
+C:\Users\LEDI\Desktop\FIEK SCADA\FIEK SCADA - IDE\FIEK_SCADA\FIEK_SCADA\bin\Debug\FIEK_SCADA.exe
+C:\Users\LEDI\Desktop\FIEK SCADA\FIEK SCADA - IDE\FIEK_SCADA\FIEK_SCADA\bin\Debug\FIEK_SCADA.pdb
+C:\Users\LEDI\Desktop\FIEK SCADA\FIEK SCADA - IDE\FIEK_SCADA\FIEK_SCADA\bin\Debug\System.Data.SQLite.dll
+C:\Users\LEDI\Desktop\FIEK SCADA\FIEK SCADA - IDE\FIEK_SCADA\FIEK_SCADA\bin\Debug\log4net.dll
+C:\Users\LEDI\Desktop\FIEK SCADA\FIEK SCADA - IDE\FIEK_SCADA\FIEK_SCADA\bin\Debug\Unme.Common.dll
+C:\Users\LEDI\Desktop\FIEK SCADA\FIEK SCADA - IDE\FIEK_SCADA\FIEK_SCADA\bin\Debug\System.Data.SQLite.xml
+C:\Users\LEDI\Desktop\FIEK SCADA\FIEK SCADA - IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.csprojResolveAssemblyReference.cache
+C:\Users\LEDI\Desktop\FIEK SCADA\FIEK SCADA - IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Form1.resources
+C:\Users\LEDI\Desktop\FIEK SCADA\FIEK SCADA - IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Inqizo.resources
+C:\Users\LEDI\Desktop\FIEK SCADA\FIEK SCADA - IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Konfigurimi.resources
+C:\Users\LEDI\Desktop\FIEK SCADA\FIEK SCADA - IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.KonfirmoImazh.resources
+C:\Users\LEDI\Desktop\FIEK SCADA\FIEK SCADA - IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.NiveliControl.resources
+C:\Users\LEDI\Desktop\FIEK SCADA\FIEK SCADA - IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.Properties.Resources.resources
+C:\Users\LEDI\Desktop\FIEK SCADA\FIEK SCADA - IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.SplashScreen.resources
+C:\Users\LEDI\Desktop\FIEK SCADA\FIEK SCADA - IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.csproj.GenerateResource.Cache
+C:\Users\OK\Desktop\Tema e Diplomes Final\FIEK SCADA\FIEK SCADA - IDE\FIEK_SCADA\FIEK_SCADA\bin\Debug\FIEK_SCADA.exe.config
+C:\Users\OK\Desktop\Tema e Diplomes Final\FIEK SCADA\FIEK SCADA - IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.csproj.ResolveComReference.cache
+C:\Users\OK\Desktop\Tema e Diplomes Final\FIEK SCADA\FIEK SCADA - IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.exe
+C:\Users\OK\Desktop\Tema e Diplomes Final\FIEK SCADA\FIEK SCADA - IDE\FIEK_SCADA\FIEK_SCADA\obj\Debug\FIEK_SCADA.pdb
+C:\Users\OK\Desktop\Tema e Diplomes All\CD\Kodet Burimore\Kodi i Aplikacioni - C#\FIEK_SCADA\bin\Debug\FIEK_SCADA.exe.config
+C:\Users\OK\Desktop\Tema e Diplomes All\CD\Kodet Burimore\Kodi i Aplikacioni - C#\FIEK_SCADA\obj\Debug\FIEK_SCADA.csproj.ResolveComReference.cache
+C:\Users\OK\Desktop\Tema e Diplomes All\CD\Kodet Burimore\Kodi i Aplikacioni - C#\FIEK_SCADA\obj\Debug\FIEK_SCADA.exe
+C:\Users\OK\Desktop\Tema e Diplomes All\CD\Kodet Burimore\Kodi i Aplikacioni - C#\FIEK_SCADA\obj\Debug\FIEK_SCADA.pdb
+F:\Libraries\Desktop\CD\Kodet Burimore\Kodi i Aplikacioni - C#\FIEK_SCADA\bin\Debug\FIEK_SCADA.exe.config
+F:\Libraries\Desktop\CD\Kodet Burimore\Kodi i Aplikacioni - C#\FIEK_SCADA\obj\Debug\FIEK_SCADA.csproj.ResolveComReference.cache
+F:\Libraries\Desktop\CD\Kodet Burimore\Kodi i Aplikacioni - C#\FIEK_SCADA\obj\Debug\FIEK_SCADA.exe
+F:\Libraries\Desktop\CD\Kodet Burimore\Kodi i Aplikacioni - C#\FIEK_SCADA\obj\Debug\FIEK_SCADA.pdb

@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{15290D30-3387-4417-9934-270463E8CABB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FIEK_SCADA</RootNamespace>
+    <AssemblyName>FIEK_SCADA</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AGauge">
+      <HintPath>..\..\Gauge\Gauge\bin\Debug\AGauge.dll</HintPath>
+    </Reference>
+    <Reference Include="AquaGauge">
+      <HintPath>..\..\Gauge\Gauge\bin\Debug\AquaGauge.dll</HintPath>
+    </Reference>
+    <Reference Include="AxInterop.CMeterControl, Version=15.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AxInterop.CMeterControl.dll</HintPath>
+    </Reference>
+    <Reference Include="colorprogressbar">
+      <HintPath>..\..\..\..\..\Downloads\Compressed\ColorProgressBarExample\bin\Debug\colorprogressbar.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.CMeterControl, Version=15.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Interop.CMeterControl.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Modbus">
+      <HintPath>..\..\..\..\..\Desktop\temaModbusTest1\temaModbusTest1\bin\Debug\Modbus.dll</HintPath>
+    </Reference>
+    <Reference Include="Office, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite">
+      <HintPath>SQLite\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="createparams.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inqizo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inqizo.Designer.cs">
+      <DependentUpon>Inqizo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Konfigurimi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Konfigurimi.Designer.cs">
+      <DependentUpon>Konfigurimi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KonfirmoImazh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KonfirmoImazh.Designer.cs">
+      <DependentUpon>KonfirmoImazh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NiveliControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NiveliControl.Designer.cs">
+      <DependentUpon>NiveliControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen.Designer.cs">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VerticalProgressBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inqizo.resx">
+      <DependentUpon>Inqizo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Konfigurimi.resx">
+      <DependentUpon>Konfigurimi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KonfirmoImazh.resx">
+      <DependentUpon>KonfirmoImazh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NiveliControl.resx">
+      <DependentUpon>NiveliControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.manifest" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NxemjaTOFF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pipeLOFF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pipePOFF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kazani i Vogel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PompaOFF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PipeIVogelOFF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VentiliOFF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NxemjaT-Animation.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NxemjaKOFF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kazani i Madhe1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\barometer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pipeTemp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\barometerPipeZhgjatja.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alarm.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\START.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\STOP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\START_Shtypur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\STOP_Shtypur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings_Duke_Leshuar.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings_Duke_Shtypur.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings_Shtypur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pipeL-Animation.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pipeP-Animation.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pompa-Animation.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VentiliMbyllet-Animation.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VentiliON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VentilliHapet-Animation.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RecordAnimacion.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RecordOFF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RecordON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LoadingBarSplashScreen.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NxemjaTON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PipeIVogel-Animation.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NxemjaK-Animation.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\START_OFF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\STOP_OFF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emergency_button_leshuar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emergency_button_OFF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emergency_button_shtypur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkOFF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Splash Screen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inqizo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Konfigurimi.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KonfirmoImazh.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MonitoroDheKontrollo.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

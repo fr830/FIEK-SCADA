@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIEK_SCADA", "FIEK_SCADA\FIEK_SCADA.csproj", "{15290D30-3387-4417-9934-270463E8CABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15290D30-3387-4417-9934-270463E8CABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15290D30-3387-4417-9934-270463E8CABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15290D30-3387-4417-9934-270463E8CABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15290D30-3387-4417-9934-270463E8CABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
